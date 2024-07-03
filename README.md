@@ -1,2 +1,2 @@
-# number-mirror.py
-print number mirror
+n=int(input())
+print(n)
